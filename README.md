@@ -6,8 +6,10 @@ author][testing-elixir].
 Italy 🇮🇹 is my home country (even though I have red hair 👨‍🦰), and I
 currently live there.
 
+## Open Source
+
 I'm super-duper active in the **open-source world**, especially in the
-@elixir-lang community.
+[@elixir-lang] community.
 
   * 🧑‍🤝‍🧑 I'm a member of the Elixir core team, and I've helped develop the
     language since 2016.
@@ -20,6 +22,10 @@ I love the OSS community. If you want to stop by and say hi, need anything, or
 if I can be of help in any way, head over to [andrealeopardi.com][website] to
 find out how to reach me.
 
+## Jobbing
+
+I'm a principal engineer at [Veeps](https://veeps.com).
+
 ![Selfie of myself at a conference](https://andrealeopardi.com/assets/media/website-overlay-cover.jpg)
 
 [redix]: https://github.com/whatyouhide/redix
@@ -27,3 +33,4 @@ find out how to reach me.
 [mint]: https://github.com/elixir-mint/mint
 [website]: https://andrealeopardi.com
 [testing-elixir]: https://pragprog.com/titles/lmelixir/testing-elixir/
+[@elixir-lang]: https://github.com/elixir-lang
