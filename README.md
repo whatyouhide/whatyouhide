@@ -22,10 +22,6 @@ I love the OSS community. If you want to stop by and say hi, need anything, or
 if I can be of help in any way, head over to [andrealeopardi.com][website] to
 find out how to reach me.
 
-## Jobbing
-
-I'm a principal engineer at [Veeps](https://veeps.com).
-
 ![Selfie of myself at a conference](https://andrealeopardi.com/assets/media/website-overlay-cover.jpg)
 
 [redix]: https://github.com/whatyouhide/redix
